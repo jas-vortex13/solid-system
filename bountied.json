@@ -1,0 +1,9 @@
+{
+  "runtime": {
+    "language": "Node.js",
+    "version": "20"
+  },
+  "dependencies": {},
+  "entrypoint": "mywork.js",
+  "executionMode": "test"
+}
