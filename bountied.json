@@ -5,5 +5,5 @@
   },
   "dependencies": {},
   "entrypoint": "mywork.js",
-  "executionMode": "test"
+  "executionMode": "run"
 }
